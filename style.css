@@ -1,0 +1,21 @@
+.bg-page {
+  background-color: chartreuse;
+}
+
+.box-output {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card-item {
+  width: 150px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.img-item {
+  width: 100px;
+  height: 100px;
+}
